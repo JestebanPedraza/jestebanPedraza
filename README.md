@@ -1,16 +1,14 @@
-## Hi there 👋
-
 # 👋 Hola, soy Juan Esteban Pedraza
 
-💻 Desarrollador con experiencia en **Java, Python, Wordpress y desarrollo web**  
-🚀 Interesado en backend, automatización y buenas prácticas de software
+💻 Desarrollador con experiencia en **Desarrollo web, Java, Python, Wordpress y análisis de datos**  
+🚀 Interesado en crear soluciones tecnológicas, automatización de procesos y buenas prácticas de software
 
 ---
 
 ## 🧠 Tecnologías
 - ☕ Java / Spring Boot
 - 🐍 Python / Django / FastAPI
-- ⚛️ React
+- ⚛️ TypeScript / React
 - 🛢️ MySQL / PostgreSQL
 - 🐳 Docker
 - 🌐 WordPress
@@ -28,7 +26,7 @@
 ### ⚛️ React
 - Buscador de bebidas con IA! 
   👉 https://github.com/JestebanPedraza/buscador-recetas-con-ia-react-ts
-- Gestión de productos
+- Gestión de productos (Frontend React y backend con Express)
   👉 [Frontend](https://github.com/JestebanPedraza/restapi-frontend-typescript)
 - Consultar clima de una ciudad (API OpenWeather)
   👉 https://github.com/JestebanPedraza/react-api-clima
@@ -36,7 +34,8 @@
   👉 https://github.com/JestebanPedraza/control-de-gastos-react-ts
   
 ### ☕ Java
- 🫣 Proximamente subiré todos mis proyectos en Java y Spring 
+- Sistema de puntos para hogares recicladores <3
+  👉 https://github.com/JestebanPedraza/ecopoints-recyclingtracker.git
 
 ### Express
 - Gestión de productos
