@@ -34,10 +34,10 @@
   👉 https://github.com/JestebanPedraza/control-de-gastos-react-ts
   
 ### ☕ Java
-- Sistema de puntos para hogares recicladores <3
-  👉 https://github.com/JestebanPedraza/ecopoints-recyclingtracker.git
+- Sistema en consola de gestión de mascotas para veterinarias <3
+  👉 [https://github.com/JestebanPedraza/ecopoints-recyclingtracker.git](https://github.com/JestebanPedraza/petcarescheduler)
 
-### Express
+### ❎ Express
 - Gestión de productos
   👉 [Backend](https://github.com/JestebanPedraza/restapi-backend-ts-express)
   
