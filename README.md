@@ -18,9 +18,9 @@
 ## 🚀 Proyectos destacados
 
 ### ☕ Java
-- Sistema en consola de gestión de mascotas para veterinarias (CLI) <3
+- Sistema en consola de gestión de mascotas para veterinarias <3
   👉 [https://github.com/JestebanPedraza/ecopoints-recyclingtracker.git](https://github.com/JestebanPedraza/petcarescheduler)
-- Sistema de gestión de gestión retail. Backend Java + Spring boot y Frontend con vanilla JS
+- Sistema de gestión retail. Spring boot y Frontend con vanilla JS
   👉[https://github.com/JestebanPedraza/java-database-final](https://github.com/JestebanPedraza/java-database-final)
   
 ### 🐍 Python y Django
