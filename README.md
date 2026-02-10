@@ -17,6 +17,12 @@
 
 ## 🚀 Proyectos destacados
 
+### ☕ Java
+- Sistema en consola de gestión de mascotas para veterinarias (CLI) <3
+  👉 [https://github.com/JestebanPedraza/ecopoints-recyclingtracker.git](https://github.com/JestebanPedraza/petcarescheduler)
+- Sistema de gestión de gestión retail. Backend Java + Spring boot y Frontend con vanilla JS
+  👉[https://github.com/JestebanPedraza/java-database-final](https://github.com/JestebanPedraza/java-database-final)
+  
 ### 🐍 Python y Django
 - Aplicación para la gestión de profesores
   🤫 Este repo es privado (Proyecto de 6 meses)
@@ -33,9 +39,7 @@
 - Control de gastos personales
   👉 https://github.com/JestebanPedraza/control-de-gastos-react-ts
   
-### ☕ Java
-- Sistema en consola de gestión de mascotas para veterinarias <3
-  👉 [https://github.com/JestebanPedraza/ecopoints-recyclingtracker.git](https://github.com/JestebanPedraza/petcarescheduler)
+
 
 ### ❎ Express
 - Gestión de productos
