@@ -23,7 +23,7 @@
 - Curso práctico de Django (Exposición que realicé en un evento para la Universidad Simón Bolívar)
   👉 https://github.com/JestebanPedraza/taller-python-django
 
-  ### ☕ Java
+### ☕ Java
 - Sistema en consola de gestión de mascotas para veterinarias <3
   👉 [https://github.com/JestebanPedraza/ecopoints-recyclingtracker.git](https://github.com/JestebanPedraza/petcarescheduler)
 - Sistema de gestión retail. Spring boot y Frontend con vanilla JS
