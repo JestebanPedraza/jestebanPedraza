@@ -1,13 +1,13 @@
 # 👋 Hola, soy Juan Esteban Pedraza
 
-💻 Desarrollador con experiencia en **Desarrollo web, Java, Python, Wordpress y análisis de datos**  
+💻 Desarrollador con experiencia en **Desarrollo web, Python, Java, Wordpress y análisis de datos**  
 🚀 Interesado en crear soluciones tecnológicas, automatización de procesos y buenas prácticas de software
 
 ---
 
 ## 🧠 Tecnologías
-- ☕ Java / Spring Boot
 - 🐍 Python / Django / FastAPI
+- ☕ Java / Spring Boot
 - ⚛️ TypeScript / React
 - 🛢️ MySQL / PostgreSQL
 - 🐳 Docker
@@ -17,17 +17,17 @@
 
 ## 🚀 Proyectos destacados
 
-### ☕ Java
-- Sistema en consola de gestión de mascotas para veterinarias <3
-  👉 [https://github.com/JestebanPedraza/ecopoints-recyclingtracker.git](https://github.com/JestebanPedraza/petcarescheduler)
-- Sistema de gestión retail. Spring boot y Frontend con vanilla JS
-  👉[https://github.com/JestebanPedraza/java-database-final](https://github.com/JestebanPedraza/java-database-final)
-  
 ### 🐍 Python y Django
 - Aplicación para la gestión de profesores
   🤫 Este repo es privado (Proyecto de 6 meses)
 - Curso práctico de Django (Exposición que realicé en un evento para la Universidad Simón Bolívar)
   👉 https://github.com/JestebanPedraza/taller-python-django
+
+  ### ☕ Java
+- Sistema en consola de gestión de mascotas para veterinarias <3
+  👉 [https://github.com/JestebanPedraza/ecopoints-recyclingtracker.git](https://github.com/JestebanPedraza/petcarescheduler)
+- Sistema de gestión retail. Spring boot y Frontend con vanilla JS
+  👉[https://github.com/JestebanPedraza/java-database-final](https://github.com/JestebanPedraza/java-database-final)
   
 ### ⚛️ React
 - Buscador de bebidas con IA! 
