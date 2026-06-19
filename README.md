@@ -18,35 +18,37 @@
 ## 🚀 Proyectos destacados
 
 ### ☕ Java
-- Aplicación CLI gestión de inventario con Patrones de diseño, testing y DockerFile
+- API RESTfull para la gestión de salones de eventos completamente dockerizada + pruebas unitarias + autenticación JWT + patrones de diseño + Simulación de microservicio  
+  👉[https://github.com/JestebanPedraza/reservas-salon](https://github.com/JestebanPedraza/reservas-salon)
+- Aplicación CLI gestión de inventario con Patrones de diseño, testing y DockerFile  
   👉[https://github.com/JestebanPedraza/CLI-inventory-manager](https://github.com/JestebanPedraza/CLI-inventory-manager-)
-- Sistema en consola de gestión de mascotas para veterinarias <3
+- Sistema en consola de gestión de mascotas para veterinarias <3  
   👉 [https://github.com/JestebanPedraza/ecopoints-recyclingtracker.git](https://github.com/JestebanPedraza/petcarescheduler)
-- Sistema de gestión retail. Spring boot y Frontend con vanilla JS
+- Sistema de gestión retail. Spring boot y Frontend con vanilla JS  
   👉[https://github.com/JestebanPedraza/java-database-final](https://github.com/JestebanPedraza/java-database-final)
   
 ### 🐍 Python y Django
 - Aplicación para la gestión de profesores
   🤫 Este repo es privado (Proyecto de 6 meses)
-- Curso práctico de Django (Exposición que realicé en un evento para la Universidad Simón Bolívar)
+- Curso práctico de Django (Exposición que realicé en un evento para la Universidad Simón Bolívar)  
   👉 https://github.com/JestebanPedraza/taller-python-django
 
 ### ⚛️ React
-- Buscador de bebidas con IA! 
+- Buscador de bebidas con IA!  
   👉 https://github.com/JestebanPedraza/buscador-recetas-con-ia-react-ts
-- Gestión de productos (Frontend React y backend con Express)
+- Gestión de productos (Frontend React y backend con Express)  
   👉 [Frontend](https://github.com/JestebanPedraza/restapi-frontend-typescript)
-- Consultar clima de una ciudad (API OpenWeather)
+- Consultar clima de una ciudad (API OpenWeather)  
   👉 https://github.com/JestebanPedraza/react-api-clima
-- Control de gastos personales
+- Control de gastos personales  
   👉 https://github.com/JestebanPedraza/control-de-gastos-react-ts
   
 ### ❎ Express
-- Gestión de productos
+- Gestión de productos  
   👉 [Backend](https://github.com/JestebanPedraza/restapi-backend-ts-express)
   
 ---
-## 📫 Contacto
+## 📫 Contacto  
 - LinkedIn: https://www.linkedin.com/in/juan-esteban-pedraza-4861971b0/
 - Email: pencan23@gmail.com
 
