@@ -20,6 +20,8 @@
 ### ☕ Java
 - API RESTfull para la gestión de salones de eventos completamente dockerizada + pruebas unitarias + autenticación JWT + patrones de diseño + Simulación de microservicio  
   👉[https://github.com/JestebanPedraza/reservas-salon](https://github.com/JestebanPedraza/reservas-salon)
+- TODO con arquitectura hexagonal
+  👉[https://github.com/JestebanPedraza/todo-hexagonal](https://github.com/JestebanPedraza/todo-hexagonal)
 - Aplicación CLI gestión de inventario con Patrones de diseño, testing y DockerFile  
   👉[https://github.com/JestebanPedraza/CLI-inventory-manager](https://github.com/JestebanPedraza/CLI-inventory-manager-)
 - Sistema en consola de gestión de mascotas para veterinarias <3  
